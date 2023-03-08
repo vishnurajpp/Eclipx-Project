@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-07T18:14:37 IST" name="Novated" finished-at="2023-03-07T18:14:51 IST" duration-ms="13951">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T18:14:37 IST" name="Test" finished-at="2023-03-07T18:14:51 IST" duration-ms="13951">
+      <class name="StandAloneTest.testcaseStartNovated">
+        <test-method signature="start()[pri:0, instance:StandAloneTest.testcaseStartNovated@63376bed]" started-at="2023-03-07T18:14:37 IST" name="start" finished-at="2023-03-07T18:14:51 IST" duration-ms="13912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- StandAloneTest.testcaseStartNovated -->
+    </test> <!-- Test -->
+  </suite> <!-- Novated -->
+</testng-results>
